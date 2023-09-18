@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -17,10 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif"  />
 
 ###
 
