@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jim and I'm a student learning web development from Philippines</h2>
+<h2 align="left">Hi 👋! My name is Jim and I'm a fresh graduate specialized in web development from Philippines</h2>
 
 ###
 
