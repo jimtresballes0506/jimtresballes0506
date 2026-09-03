@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Jim Tresballes 👋
 
 ### Junior Software Developer | Aspiring Full-Stack Engineer
 
@@ -8,10 +8,10 @@ I am a passionate junior software developer focused on building clean, efficient
 
 ### 💻 Tech Stack & Tools
 
-* **Languages:** JavaScript, HTML5, CSS3, Python
+* **Languages:** JavaScript, HTML5, CSS, Python
 * **Frontend:** React, Tailwind CSS, Bootstrap
-* **Backend & Database:** Node.js, Express, MySQL, Firebase
-* **Version Control & Tools:** Git, GitHub, VS Code, Postman
+* **Backend & Database:** Node.js, MySQL, Firebase
+* **Version Control & Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -26,16 +26,14 @@ I am a passionate junior software developer focused on building clean, efficient
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jimtresballes0506&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimtresballes0506&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📬 Let's Connect
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
-* **Email:** your.email@example.com
-* **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+* **Email:** jimtresballes0506@gmail.com
