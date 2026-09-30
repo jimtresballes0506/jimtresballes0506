@@ -26,3 +26,4 @@ I am a passionate junior software developer focused on building clean, efficient
 ### Let's Connect!
 
 * **Email:** jimtresballes0506@gmail.com
+* **LinkedIn:** www.linkedin.com/in/jim-tresballes-4076b1279
