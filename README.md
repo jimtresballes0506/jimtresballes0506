@@ -6,7 +6,7 @@ I am a passionate junior software developer focused on building clean, efficient
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages:** JavaScript, HTML5, CSS, Python
 * **Frontend:** React, Tailwind CSS, Bootstrap
@@ -15,7 +15,7 @@ I am a passionate junior software developer focused on building clean, efficient
 
 ---
 
-### 🌱 Current Focus
+### Current Focus
 
 * Building full-stack web applications to solve real-world problems.
 * Deepening my knowledge of advanced JavaScript and modern frontend frameworks.
@@ -23,17 +23,6 @@ I am a passionate junior software developer focused on building clean, efficient
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jimtresballes0506&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimtresballes0506&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Let's Connect
+### Let's Connect!
 
 * **Email:** jimtresballes0506@gmail.com
